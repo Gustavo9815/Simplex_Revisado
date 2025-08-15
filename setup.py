@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='bilioteca-simplex-revisado',  # Nombre del paquete
+    name='simplex_revisado',  # Nombre del paquete
     version='0.1.0',             # Versión inicial del paquete
     author='Gustavo Lopez',          # Nombre del autor
     author_email='lopezlucasg@gmail.com.com', # Email del autor
